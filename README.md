@@ -16,7 +16,7 @@ Screenshots!
 
 <table>
 <tc>
-<td><img src="https://ibb.co/5MkW909][img]https://i.ibb.co/5MkW909/Screenshot-171.png
+<td><img src="https://i.ibb.co/5MkW909/Screenshot-171.png
 " width="800"/></td>
-<td><img src="https://ibb.co/2NWMd0T][img]https://i.ibb.co/2NWMd0T/Screenshot-172.png" width="800"/></td>
+<td><img src="https://i.ibb.co/2NWMd0T/Screenshot-172.png" width="800"/></td>
 </tr>
