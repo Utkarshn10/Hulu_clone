@@ -12,6 +12,14 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Screenshots!
+## Learning
+
+<p>
+1. Image in next.js
+2. About server side rendering
+3. About Tailwind CSS and how it makes work easy
+
+</p>
+## Screenshots
 
 <img src="https://i.ibb.co/PmMZYLY/Screenshot-171.png" />
