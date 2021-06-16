@@ -17,12 +17,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Learnings
 
 <p width="400px"><font size="5">
+
 1. Image in next.js.
-2. About server side rendering.
+2. About server side rendering in next.js.
 3. About Tailwind CSS and how it makes work easy.
+
 </br>
 </p>
 
 ## Screenshots
 
 <img src="https://i.ibb.co/PmMZYLY/Screenshot-171.png" />
+<img src="https://i.ibb.co/2NWMd0T/Screenshot-172.png" />
