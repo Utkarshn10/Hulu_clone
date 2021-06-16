@@ -14,6 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Screenshots!
 
-<img src="https://i.ibb.co/5MkW909/Screenshot-171.png
-" width="800"/></td>
-<img src="https://i.ibb.co/2NWMd0T/Screenshot-172.png" width="800"/></td>
+<img src="https://i.ibb.co/5MkW909/Screenshot-171.png" />
+<img src="https://i.ibb.co/2NWMd0T/Screenshot-172.png" />
