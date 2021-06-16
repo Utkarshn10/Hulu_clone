@@ -28,4 +28,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Screenshots
 
 <img src="https://i.ibb.co/PmMZYLY/Screenshot-171.png" />
-<img src="https://i.ibb.co/2NWMd0T/Screenshot-172.png" />
