@@ -32,7 +32,7 @@ function Thumbnail({result}) {
         >
           {result.media_type && `${result.media_type} •`}{" "}
           {result.release_date || result.first_air_date} •{" "}
-          {/* <ThumbUpIcon className="h-5 mx-2" /> */}
+          <ThumbUpIcon className="h-5 mx-2" />
           {result.vote_count}
         </p>
       </div>
