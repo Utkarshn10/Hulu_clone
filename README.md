@@ -11,3 +11,12 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Screenshots!
+
+<table>
+<tc>
+<td><img src="https://ibb.co/5MkW909
+" width="800"/></td>
+<td><img src="https://ibb.co/2NWMd0T" width="800"/></td>
+</tr>
